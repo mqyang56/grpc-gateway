@@ -6,7 +6,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes/timestamp"
-	"github.com/grpc-ecosystem/grpc-gateway/examples/proto/examplepb"
+	"github.com/grpc-ecosystem/grpc-gateway/examples/internal/proto/examplepb"
 	"github.com/grpc-ecosystem/grpc-gateway/runtime"
 )
 
